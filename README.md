@@ -5,5 +5,3 @@
 - [Bruno Alexande Freire](https://github.com/brunofreire2001)
 - [Ana Godoy](https://github.com/AnafGodoy)
 - [Levi Motta](https://github.com/levizoca)
--
-- 
